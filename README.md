@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aymaan28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Flutter & Python.
+- 👀 I’m interested in Physics, Computational Physics, Quantum Technology, Astrophysics.
+- 🌱 I’m currently learning Flutter, Dart, Python, C, DBMS, Data Analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sayedaymaan28@gmail.com
 
